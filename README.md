@@ -28,3 +28,5 @@ Based on predefined threshold values, the system automatically controls solenoid
 
 ## Results
 ![Graph](graph.png)
+
+> Smart greywater reuse using real-time pH monitoring and automated control.
