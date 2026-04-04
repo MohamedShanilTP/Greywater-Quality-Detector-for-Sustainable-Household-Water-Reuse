@@ -16,3 +16,15 @@ Based on predefined threshold values, the system automatically controls solenoid
 - Relay Module
 - Solenoid Valves
 - Water Pump
+
+## Hardware Setup
+![Hardware](final.jpeg)
+
+## Block Diagram
+![Block Diagram](blockdiagram.jpg)
+
+## PCB Design
+![PCB](pcb.jpeg)
+
+## Results
+![Graph](graph.png)
