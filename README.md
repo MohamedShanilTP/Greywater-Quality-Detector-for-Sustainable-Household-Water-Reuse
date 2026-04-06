@@ -18,15 +18,15 @@ Based on predefined threshold values, the system automatically controls solenoid
 - Water Pump
 
 ## Hardware Setup
-![Hardware](final.jpeg)
+![Hardware](images/final.jpeg)
 
 ## Block Diagram
-![Block Diagram](blockdiagram.jpg)
+![Block Diagram](images/blockdiagram.jpg)
 
 ## PCB Design
-![PCB](pcb.jpeg)
+![PCB](images/pcb.jpeg)
 
 ## Results
-![Graph](graph.png)
+![Graph](images/graph.png)
 
 > Smart greywater reuse using real-time pH monitoring and automated control.
